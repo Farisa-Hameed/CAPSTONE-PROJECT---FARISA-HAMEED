@@ -1,2 +1,2 @@
 # PHASE-1-FARISA-HAMEED
-A machine learning project to predict healthcare costs using patient demographics, medical conditions, and hospital data. Includes EDA, preprocessing, feature engineering, model training (Classification), evaluation, and deployment-ready code.
+A machine learning model to classify medical conditions (e.g., Cancer, Diabetes) using patient demographics, test results, and admission details. It involves data preprocessing, feature engineering, and classification using models like Random Forest and Gradient Boosting. Metrics: Accuracy, F1-Score, ROC-AUC.
