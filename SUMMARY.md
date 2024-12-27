@@ -1,2 +1,2 @@
-# HEALTHCARE DATASET - EVALUATION OF MEDICAL CONDITION 
-A machine learning model to classify medical conditions (e.g., Cancer, Diabetes) using patient demographics, test results, and admission details. It involves data preprocessing, feature engineering, and classification using models like Random Forest and Gradient Boosting. Metrics: Accuracy, F1-Score, ROC-AUC.
+# HEALTHCARE DATASET - EVALUATION OF TEST RESULTS 
+This repository contains a complete project aimed at building a predictive machine-learning model to classify or predict healthcare test results based on patient data. The project includes data preprocessing, feature selection, model training, evaluation, and insights to aid healthcare professionals in decision-making.
