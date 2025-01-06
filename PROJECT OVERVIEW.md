@@ -1,6 +1,7 @@
 # HEALTHCARE DATASET - EVALUATION OF TEST RESULTS 
 
-This repository contains a complete project aimed at building a predictive machine-learning model to classify or predict healthcare test results based on patient data. The project includes data preprocessing, feature selection, model training, evaluation, hyperparameter tuning, evaluation with unseen data and insights to aid healthcare professionals in decision-making.
+In this project, we aim to leverage machine learning techniques to predict outcomes based on features derived from a dataset, specifically in a classification context. The core objective is to build a robust, accurate, and scalable model that can predict a target variable (in this case, Test Results) based on a set of input features. Here, the Test Results represents classification scenario by  diagnosing diseases whether it is normal, abnormal, or inconclusive.
+By building a model that can accurately predict a target variable based on multiple input features, we are taking a significant step toward making real-time decisions based on historical data. This capability can be a game-changer in business strategies, health diagnostics, and various other domains.
 
 Various process Done includes: 
 
