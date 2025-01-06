@@ -18,10 +18,15 @@ Outliers in the data were checked using visualization techniques like boxplots a
 
 Exploratory Data Analysis (EDA):
 Histograms of Numerical Columns: Histograms were plotted for the numerical columns to understand the distribution of data. This visualization helps identify features that are normally distributed, skewed, or have outliers.
+
 Correlation Heatmap: A correlation matrix heatmap was plotted to visualize the relationships between numerical features. This helps identify strong correlations, which can aid in understanding how different features interact with each other, or in feature engineering.
+
 Bar Plot for Categorical Column (Medical Condition): A bar plot was created to visualize the distribution of different medical conditions within the dataset.
+
 Line Plot for Time-Series Data (e.g., 'Days Hospitalized' vs. 'Billing Amount'): A line plot was drawn to observe the trend over time between Days Hospitalized and Billing Amount. This kind of plot helps in visualizing any temporal relationships or trends between variables.
+
 Pie Chart for Distribution of Medical Condition: A pie chart was used to show the proportion of different medical conditions in the dataset. This visualization helps in quickly understanding the class distribution of a categorical variable.
+
 Kernel Density Estimation (KDE) Plot for Age: The KDE plot was created to understand the distribution of Age in the dataset. 
 
 Feature Engineering:
