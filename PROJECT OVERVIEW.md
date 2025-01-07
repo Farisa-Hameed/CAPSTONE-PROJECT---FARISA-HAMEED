@@ -21,7 +21,7 @@ Histograms of Numerical Columns: Histograms were plotted for the numerical colum
 
 Correlation Heatmap: A correlation matrix heatmap was plotted to visualize the relationships between numerical features. This helps identify strong correlations, which can aid in understanding how different features interact with each other, or in feature engineering.
 
-Bar Plot for Categorical Column (Medical Condition): A bar plot was created to visualize the distribution of different medical conditions within the dataset.
+Bar Plot for Categorical Column (Test Results): A bar plot was created to visualize the distribution of different Test Results within the dataset.
 
 Line Plot for Time-Series Data (e.g., 'Days Hospitalized' vs. 'Billing Amount'): A line plot was drawn to observe the trend over time between Days Hospitalized and Billing Amount. This kind of plot helps in visualizing any temporal relationships or trends between variables.
 
