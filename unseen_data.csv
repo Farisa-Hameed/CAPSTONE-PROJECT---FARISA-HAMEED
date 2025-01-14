@@ -1,0 +1,11 @@
+Age,Billing Amount,Days Hospitalized,Gender_Male,Blood Type_A-,Blood Type_AB+,Blood Type_AB-,Blood Type_B+,Blood Type_B-,Blood Type_O+,Blood Type_O-,Medical Condition_Asthma,Medical Condition_Cancer,Medical Condition_Diabetes,Medical Condition_Hypertension,Medical Condition_Obesity,Insurance Provider_Blue Cross,Insurance Provider_Cigna,Insurance Provider_Medicare,Insurance Provider_UnitedHealthcare,Admission Type_Emergency,Admission Type_Urgent,Medication_Ibuprofen,Medication_Lipitor,Medication_Paracetamol,Medication_Penicillin,Test Results
+63,38954.73221822339,7,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False,True,False,False,False,False,0
+57,41672.62562022787,5,False,False,False,False,True,False,False,False,True,False,False,False,False,True,False,False,False,False,False,True,False,False,False,0
+71,46565.26667095306,13,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,True,False,False,True,False,False,False,False,2
+24,29218.58227413849,30,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,0
+42,16601.685136727818,28,True,False,False,False,False,False,True,False,False,False,False,True,False,False,True,False,False,False,True,True,False,False,False,2
+57,49143.89433413284,17,True,False,False,False,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,True,False,2
+36,34247.50088496022,8,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,False,False,False,False,True,2
+75,42687.58420951672,26,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,True,False,True,False,False,0
+59,39609.81705119835,23,True,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False,False,True,False,False,False,False,False,2
+74,18031.98064099443,4,True,False,False,False,False,False,False,True,False,True,False,False,False,False,True,False,False,False,True,False,False,True,False,1
